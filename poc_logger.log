@@ -1,0 +1,166 @@
+2022-06-14 02:01:23,082 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-north-1  tag `poc` 
+2022-06-14 02:01:23,471 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-south-1  tag `poc` 
+2022-06-14 02:01:24,391 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-west-3  tag `poc` 
+2022-06-14 02:01:25,204 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-west-2  tag `poc` 
+2022-06-14 02:01:26,643 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-west-1  tag `poc` 
+2022-06-14 02:01:27,335 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-northeast-3  tag `poc` 
+2022-06-14 02:01:28,083 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-northeast-2  tag `poc` 
+2022-06-14 02:01:28,762 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-northeast-1  tag `poc` 
+2022-06-14 02:01:30,343 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  sa-east-1  tag `poc` 
+2022-06-14 02:01:31,541 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ca-central-1  tag `poc` 
+2022-06-14 02:01:31,925 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-southeast-1  tag `poc` 
+2022-06-14 02:01:32,769 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-southeast-2  tag `poc` 
+2022-06-14 02:01:33,538 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-central-1  tag `poc` 
+2022-06-14 02:01:35,124 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-east-1  tag `poc` 
+2022-06-14 02:01:36,300 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-east-2  tag `poc` 
+2022-06-14 02:01:37,476 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-west-1  tag `poc` 
+2022-06-14 02:01:38,826 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-west-2  tag `poc` 
+2022-06-14 02:01:38,843 - POC SCRIPT - DEBUG : Deleting the EC2 instances in list : [<built-in method extend of list object at 0x7fe657114740>, <built-in method extend of list object at 0x7fe656cc7080>, <built-in method extend of list object at 0x7fe657100480>, <built-in method extend of list object at 0x7fe656b5f980>, <built-in method extend of list object at 0x7fe656cde980>, <built-in method extend of list object at 0x7fe656ba6740>, <built-in method extend of list object at 0x7fe656a479c0>, <built-in method extend of list object at 0x7fe656bc9740>, <built-in method extend of list object at 0x7fe656a6d880>, <built-in method extend of list object at 0x7fe656b5de40>, <built-in method extend of list object at 0x7fe656ab1ec0>, <built-in method extend of list object at 0x7fe656f532c0>, <built-in method extend of list object at 0x7fe656a8bcc0>, <built-in method extend of list object at 0x7fe657736a40>, <built-in method extend of list object at 0x7fe656b0ec40>, <built-in method extend of list object at 0x7fe6564f14c0>, <built-in method extend of list object at 0x7fe6564dff00>]
+2022-06-14 02:01:38,846 - POC SCRIPT - ERROR : Parameter validation failed:
+Invalid type for parameter InstanceIds[0], value: <built-in method extend of list object at 0x7fe657114740>, type: <class 'builtin_function_or_method'>, valid types: <class 'str'>
+Invalid type for parameter InstanceIds[1], value: <built-in method extend of list object at 0x7fe656cc7080>, type: <class 'builtin_function_or_method'>, valid types: <class 'str'>
+Invalid type for parameter InstanceIds[2], value: <built-in method extend of list object at 0x7fe657100480>, type: <class 'builtin_function_or_method'>, valid types: <class 'str'>
+Invalid type for parameter InstanceIds[3], value: <built-in method extend of list object at 0x7fe656b5f980>, type: <class 'builtin_function_or_method'>, valid types: <class 'str'>
+Invalid type for parameter InstanceIds[4], value: <built-in method extend of list object at 0x7fe656cde980>, type: <class 'builtin_function_or_method'>, valid types: <class 'str'>
+Invalid type for parameter InstanceIds[5], value: <built-in method extend of list object at 0x7fe656ba6740>, type: <class 'builtin_function_or_method'>, valid types: <class 'str'>
+Invalid type for parameter InstanceIds[6], value: <built-in method extend of list object at 0x7fe656a479c0>, type: <class 'builtin_function_or_method'>, valid types: <class 'str'>
+Invalid type for parameter InstanceIds[7], value: <built-in method extend of list object at 0x7fe656bc9740>, type: <class 'builtin_function_or_method'>, valid types: <class 'str'>
+Invalid type for parameter InstanceIds[8], value: <built-in method extend of list object at 0x7fe656a6d880>, type: <class 'builtin_function_or_method'>, valid types: <class 'str'>
+Invalid type for parameter InstanceIds[9], value: <built-in method extend of list object at 0x7fe656b5de40>, type: <class 'builtin_function_or_method'>, valid types: <class 'str'>
+Invalid type for parameter InstanceIds[10], value: <built-in method extend of list object at 0x7fe656ab1ec0>, type: <class 'builtin_function_or_method'>, valid types: <class 'str'>
+Invalid type for parameter InstanceIds[11], value: <built-in method extend of list object at 0x7fe656f532c0>, type: <class 'builtin_function_or_method'>, valid types: <class 'str'>
+Invalid type for parameter InstanceIds[12], value: <built-in method extend of list object at 0x7fe656a8bcc0>, type: <class 'builtin_function_or_method'>, valid types: <class 'str'>
+Invalid type for parameter InstanceIds[13], value: <built-in method extend of list object at 0x7fe657736a40>, type: <class 'builtin_function_or_method'>, valid types: <class 'str'>
+Invalid type for parameter InstanceIds[14], value: <built-in method extend of list object at 0x7fe656b0ec40>, type: <class 'builtin_function_or_method'>, valid types: <class 'str'>
+Invalid type for parameter InstanceIds[15], value: <built-in method extend of list object at 0x7fe6564f14c0>, type: <class 'builtin_function_or_method'>, valid types: <class 'str'>
+Invalid type for parameter InstanceIds[16], value: <built-in method extend of list object at 0x7fe6564dff00>, type: <class 'builtin_function_or_method'>, valid types: <class 'str'>
+2022-06-14 02:01:38,847 - POC SCRIPT - WARNING : Instance deletion failed ❌
+2022-06-14 02:03:41,776 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-north-1  tag `poc` 
+2022-06-14 02:03:42,086 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-south-1  tag `poc` 
+2022-06-14 02:03:42,854 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-west-3  tag `poc` 
+2022-06-14 02:03:43,831 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-west-2  tag `poc` 
+2022-06-14 02:03:45,391 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-west-1  tag `poc` 
+2022-06-14 02:03:46,136 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-northeast-3  tag `poc` 
+2022-06-14 02:03:46,746 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-northeast-2  tag `poc` 
+2022-06-14 02:03:47,902 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-northeast-1  tag `poc` 
+2022-06-14 02:03:49,551 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  sa-east-1  tag `poc` 
+2022-06-14 02:03:50,803 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ca-central-1  tag `poc` 
+2022-06-14 02:03:51,233 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-southeast-1  tag `poc` 
+2022-06-14 02:03:52,135 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-southeast-2  tag `poc` 
+2022-06-14 02:03:52,949 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-central-1  tag `poc` 
+2022-06-14 02:03:54,306 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-east-1  tag `poc` 
+2022-06-14 02:03:55,510 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-east-2  tag `poc` 
+2022-06-14 02:03:56,943 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-west-1  tag `poc` 
+2022-06-14 02:03:58,174 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-west-2  tag `poc` 
+2022-06-14 02:03:58,176 - POC SCRIPT - WARNING : Nothing to delete, zero instance found.
+2022-06-14 02:03:58,177 - POC SCRIPT - WARNING : Instance deletion failed ❌
+2022-06-14 02:04:22,480 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-north-1  tag `poc` 
+2022-06-14 02:04:22,779 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-south-1  tag `poc` 
+2022-06-14 02:04:23,688 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-west-3  tag `poc` 
+2022-06-14 02:04:24,490 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-west-2  tag `poc` 
+2022-06-14 02:04:26,022 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-west-1  tag `poc` 
+2022-06-14 02:04:26,741 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-northeast-3  tag `poc` 
+2022-06-14 02:04:27,454 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-northeast-2  tag `poc` 
+2022-06-14 02:04:28,155 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-northeast-1  tag `poc` 
+2022-06-14 02:04:29,661 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  sa-east-1  tag `poc` 
+2022-06-14 02:04:30,734 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ca-central-1  tag `poc` 
+2022-06-14 02:04:31,129 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-southeast-1  tag `poc` 
+2022-06-14 02:04:31,926 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-southeast-2  tag `poc` 
+2022-06-14 02:04:32,691 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-central-1  tag `poc` 
+2022-06-14 02:04:33,955 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-east-1  tag `poc` 
+2022-06-14 02:04:35,068 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-east-2  tag `poc` 
+2022-06-14 02:04:36,267 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-west-1  tag `poc` 
+2022-06-14 02:04:37,524 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-west-2  tag `poc` 
+2022-06-14 02:04:37,527 - POC SCRIPT - WARNING : Nothing to delete, zero instance found.
+2022-06-14 02:04:37,529 - POC SCRIPT - WARNING : Instance deletion failed ❌
+2022-06-14 02:13:32,290 - POC SCRIPT - DEBUG : POC script started
+2022-06-14 02:14:17,150 - POC SCRIPT - DEBUG : POC script started
+2022-06-14 13:53:52,693 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-north-1  tag `poc` 
+2022-06-14 13:53:53,052 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-south-1  tag `poc` 
+2022-06-14 13:53:53,820 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-west-3  tag `poc` 
+2022-06-14 13:53:54,641 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-west-2  tag `poc` 
+2022-06-14 13:53:55,606 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-west-1  tag `poc` 
+2022-06-14 13:53:56,228 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-northeast-3  tag `poc` 
+2022-06-14 13:53:56,926 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-northeast-2  tag `poc` 
+2022-06-14 13:53:57,568 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-northeast-1  tag `poc` 
+2022-06-14 13:53:59,098 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  sa-east-1  tag `poc` 
+2022-06-14 13:54:00,172 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ca-central-1  tag `poc` 
+2022-06-14 13:54:00,561 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-southeast-1  tag `poc` 
+2022-06-14 13:54:01,332 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-southeast-2  tag `poc` 
+2022-06-14 13:54:02,127 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-central-1  tag `poc` 
+2022-06-14 13:54:03,422 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-east-1  tag `poc` 
+2022-06-14 13:54:04,519 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-east-2  tag `poc` 
+2022-06-14 13:54:05,530 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-west-1  tag `poc` 
+2022-06-14 13:54:06,707 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-west-2  tag `poc` 
+2022-06-14 13:54:06,710 - POC SCRIPT - WARNING : Nothing to delete, zero instance found.
+2022-06-14 13:54:06,712 - POC SCRIPT - WARNING : Instance deletion failed ❌
+2022-06-14 13:55:33,766 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-north-1  tag `poc` 
+2022-06-14 13:55:34,034 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-south-1  tag `poc` 
+2022-06-14 13:55:34,767 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-west-3  tag `poc` 
+2022-06-14 13:55:35,526 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-west-2  tag `poc` 
+2022-06-14 13:55:36,510 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-west-1  tag `poc` 
+2022-06-14 13:55:37,154 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-northeast-3  tag `poc` 
+2022-06-14 13:55:37,827 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-northeast-2  tag `poc` 
+2022-06-14 13:55:38,447 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-northeast-1  tag `poc` 
+2022-06-14 13:55:39,897 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  sa-east-1  tag `poc` 
+2022-06-14 13:55:40,915 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ca-central-1  tag `poc` 
+2022-06-14 13:55:41,958 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-southeast-1  tag `poc` 
+2022-06-14 13:55:42,722 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-southeast-2  tag `poc` 
+2022-06-14 13:55:43,454 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-central-1  tag `poc` 
+2022-06-14 13:55:44,696 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-east-1  tag `poc` 
+2022-06-14 13:55:45,778 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-east-2  tag `poc` 
+2022-06-14 13:55:46,836 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-west-1  tag `poc` 
+2022-06-14 13:55:48,022 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-west-2  tag `poc` 
+2022-06-14 13:56:15,073 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-north-1  tag `poc` 
+2022-06-14 13:56:15,299 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-south-1  tag `poc` 
+2022-06-14 13:56:15,991 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-west-3  tag `poc` 
+2022-06-14 13:56:16,672 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-west-2  tag `poc` 
+2022-06-14 13:56:17,427 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-west-1  tag `poc` 
+2022-06-14 13:56:17,969 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-northeast-3  tag `poc` 
+2022-06-14 13:56:18,598 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-northeast-2  tag `poc` 
+2022-06-14 13:56:19,164 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-northeast-1  tag `poc` 
+2022-06-14 13:56:20,604 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  sa-east-1  tag `poc` 
+2022-06-14 13:56:21,636 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ca-central-1  tag `poc` 
+2022-06-14 13:56:21,945 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-southeast-1  tag `poc` 
+2022-06-14 13:56:22,662 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-southeast-2  tag `poc` 
+2022-06-14 13:56:23,337 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-central-1  tag `poc` 
+2022-06-14 13:56:24,363 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-east-1  tag `poc` 
+2022-06-14 13:56:25,406 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-east-2  tag `poc` 
+2022-06-14 13:56:26,416 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-west-1  tag `poc` 
+2022-06-14 13:56:27,536 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-west-2  tag `poc` 
+2022-06-14 13:58:34,366 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-north-1  tag `Name` 
+2022-06-14 13:58:34,715 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-south-1  tag `Name` 
+2022-06-14 13:58:35,484 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-west-3  tag `Name` 
+2022-06-14 13:58:36,257 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-west-2  tag `Name` 
+2022-06-14 13:58:37,212 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-west-1  tag `Name` 
+2022-06-14 13:58:37,840 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-northeast-3  tag `Name` 
+2022-06-14 13:58:38,518 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-northeast-2  tag `Name` 
+2022-06-14 13:58:39,151 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-northeast-1  tag `Name` 
+2022-06-14 13:58:40,643 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  sa-east-1  tag `Name` 
+2022-06-14 13:58:41,719 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ca-central-1  tag `Name` 
+2022-06-14 13:58:42,089 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-southeast-1  tag `Name` 
+2022-06-14 13:58:42,943 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-southeast-2  tag `Name` 
+2022-06-14 13:58:43,768 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-central-1  tag `Name` 
+2022-06-14 13:58:45,052 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-east-1  tag `Name` 
+2022-06-14 13:58:46,169 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-east-2  tag `Name` 
+2022-06-14 13:58:47,267 - POC SCRIPT - DEBUG : 1 EC2 intances found in the  us-west-1  tag `Name` 
+2022-06-14 13:58:48,409 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-west-2  tag `Name` 
+2022-06-14 14:00:15,458 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-north-1  tag `poc` 
+2022-06-14 14:00:15,746 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-south-1  tag `poc` 
+2022-06-14 14:00:16,548 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-west-3  tag `poc` 
+2022-06-14 14:00:17,299 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-west-2  tag `poc` 
+2022-06-14 14:00:18,290 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-west-1  tag `poc` 
+2022-06-14 14:00:18,928 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-northeast-3  tag `poc` 
+2022-06-14 14:00:19,616 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-northeast-2  tag `poc` 
+2022-06-14 14:00:20,316 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-northeast-1  tag `poc` 
+2022-06-14 14:00:21,858 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  sa-east-1  tag `poc` 
+2022-06-14 14:00:22,954 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ca-central-1  tag `poc` 
+2022-06-14 14:00:23,331 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-southeast-1  tag `poc` 
+2022-06-14 14:00:24,107 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  ap-southeast-2  tag `poc` 
+2022-06-14 14:00:24,887 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  eu-central-1  tag `poc` 
+2022-06-14 14:00:26,149 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-east-1  tag `poc` 
+2022-06-14 14:00:27,219 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-east-2  tag `poc` 
+2022-06-14 14:00:28,317 - POC SCRIPT - DEBUG : 1 EC2 intances found in the  us-west-1  tag `poc` 
+2022-06-14 14:00:29,528 - POC SCRIPT - DEBUG : 0 EC2 intances found in the  us-west-2  tag `poc` 
+2022-06-14 14:00:29,545 - POC SCRIPT - DEBUG : Deleting the EC2 instances in list : ['i-0e8afcd14252bdcde']
+2022-06-14 14:00:30,933 - POC SCRIPT - DEBUG : 1 instance deleted Successfully ✅
